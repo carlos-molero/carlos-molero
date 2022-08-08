@@ -5,7 +5,9 @@ Freelance full stack software developer and cloud architect. I work at Voicit Te
 In my free time I like:
 
 :guitar: Playing guitar
+
 :notebook_with_decorative_cover: Blogging on my [personal page](https://freelancedeveloper.me/blogs)
+
 :sunflower: Enjoying nature
 
 ## Let's connect
