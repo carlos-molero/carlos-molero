@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**carlos-molero/carlos-molero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance full stack software developer and cloud architect. I work at Voicit Technologies as a full time consultant.
 
-Here are some ideas to get you started:
+In my free time I like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:guitar: Playing guitar
+:notebook_with_decorative_cover: Blogging on my [personal page](https://freelancedeveloper.me/blogs)
+:sunflower: Enjoying nature
+
+## Let's connect
+
+Feel free to follow me on [instagram](https://www.instagram.com/free.lancedeveloper/) and say hi!
+
