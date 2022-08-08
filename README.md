@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 Freelance full stack software developer and cloud architect. I work at Voicit Technologies as a full time consultant.
 
