@@ -6,7 +6,7 @@ In my free time I like:
 
 :guitar: Playing guitar
 
-:notebook_with_decorative_cover: Blogging on my [personal page](https://freelancedeveloper.me/blog)
+:notebook_with_decorative_cover: Blogging on my [personal page](https://carlosmolero.dev/tabs/blog/)
 
 :sunflower: Enjoying nature
 
