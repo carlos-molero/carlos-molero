@@ -4,11 +4,17 @@ Freelance full stack software developer and cloud architect. I work at Voicit Te
 
 In my free time I like:
 
-:guitar: Playing guitar
+:hammer: Woodcrafting
 
 :notebook_with_decorative_cover: Blogging on my [personal page](https://carlosmolero.dev/tabs/blog/)
 
 :sunflower: Enjoying nature
+
+## Skilled at and use almost every day:
+
+<img width="80px" src="https://i.postimg.cc/Wbp0kK7p/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb2221a59.png"></img>
+<img width="60px" src="https://i.postimg.cc/y81BBhBb/javascript-original-logo-icon-146455.png"></img>
+<img width="130px" src="https://i.postimg.cc/vHbnfjb2/pngegg.png"></img>
 
 ## My fav languages :eyes:
 
