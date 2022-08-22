@@ -31,7 +31,7 @@
 - [Edge Computing Vs Cloud Computing, The Difference Explained](https://carlosmolero.dev/tabs/blog/posts/2022-07-24-Edge-Computing-Vs-Cloud-Computing-The-Difference-Explained)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-molero&show_icons=true&locale=en&layout=compact" alt="carlos-molero" /></p>
 
