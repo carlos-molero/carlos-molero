@@ -26,7 +26,7 @@
 <h3 align="left">Latest posts:</h3>
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td>Jekyll Vs Wordpress, My Experience</td><td>https://carlosmolero.dev/posts/2022-08-21-Jekyll-Vs-Wordpress-My-Experience</td></tr><tr><td>How To Use The HTML Datalist Tag</td><td>https://carlosmolero.dev/posts/2022-08-20-How-To-Use-The-HTML-Datalist-Tag</td></tr><tr><td>Java Callbacks Explained</td><td>https://carlosmolero.dev/posts/2022-08-10-Java-Callbacks-Explained</td></tr><tr><td>Edge Computing Vs Cloud Computing, The Difference Explained</td><td>https://carlosmolero.dev/posts/2022-07-24-Edge-Computing-Vs-Cloud-Computing-The-Difference-Explained</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Endpoint logic testing in Express with Jest</td><td>https://carlosmolero.dev/posts/2022-08-22-Endpoint-Logic-Testing-In-Express-With-Jest</td></tr><tr><td>Jekyll Vs Wordpress, My Experience</td><td>https://carlosmolero.dev/posts/2022-08-21-Jekyll-Vs-Wordpress-My-Experience</td></tr><tr><td>How To Use The HTML Datalist Tag</td><td>https://carlosmolero.dev/posts/2022-08-20-How-To-Use-The-HTML-Datalist-Tag</td></tr><tr><td>Java Callbacks Explained</td><td>https://carlosmolero.dev/posts/2022-08-10-Java-Callbacks-Explained</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <h3 align="left">Stats:</h3>
