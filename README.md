@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://carlosmolero.dev/tabs/blog/](https://carlosmolero.dev/tabs/blog/)
 
-- 💬 Ask me about **Javascript, React, Svelte, NodeJS or Java**
+- 💬 Ask me about **Javascript, React, Golang, Docker, Kubernetes or Java**
 
 - 📫 How to reach me **carlos.mta@outlook.es**
 
