@@ -27,7 +27,7 @@
 <h3 align="left">Latest posts:</h3>
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td>Configuring A Basic Filter To Validate JWT Tokens In Spring Boot</td><td>https://carlosmolero.dev/posts/2022-09-10-Configuring-A-Basic-Filter-To-Validate-JWT-Tokens-In-Spring-Boot</td></tr><tr><td>Setup Multiple GitHub Deploy SSH Keys In Your VPS</td><td>https://carlosmolero.dev/posts/2022-08-30-Setup-Multiple-GitHub-Deploy-SSH-Keys-In-Your-VPS</td></tr><tr><td>How To Setup A VPS For All Your Hobby Projects &lpar;With OVH Cloud&rpar;</td><td>https://carlosmolero.dev/posts/2022-08-27-How-Setup-A-VPS-For-All-Your-Hobby-Projects</td></tr><tr><td>The Repositories Pattern, Express + Jest</td><td>https://carlosmolero.dev/posts/2022-08-22-The-Repositories-Pattern-Express-Jest</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Creating A Basic Filter In Spring Boot</td><td>https://carlosmolero.dev/posts/2022-09-10-Creating-A-Basic-Filter-In-Spring-Boot</td></tr><tr><td>Handling Multiple Github Deploy Keys</td><td>https://carlosmolero.dev/posts/2022-08-30-Handling-Multiple-Github-Deploy-Keys</td></tr><tr><td>Hosting Your Projects On OVH</td><td>https://carlosmolero.dev/posts/2022-08-27-Hosting-Your-Projects-On-OVH</td></tr><tr><td>The Repositories Pattern, Express + Jest</td><td>https://carlosmolero.dev/posts/2022-08-22-The-Repositories-Pattern-Express-Jest</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <h3 align="left">Stats:</h3>
