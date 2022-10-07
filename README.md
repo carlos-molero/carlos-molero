@@ -27,7 +27,7 @@
 <h3 align="left">Latest posts:</h3>
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td>Creating A Basic Filter In Spring Boot</td><td>https://carlosmolero.dev/posts/2022-09-10-Creating-A-Basic-Filter-In-Spring-Boot</td></tr><tr><td>Handling Multiple Github Deploy Keys</td><td>https://carlosmolero.dev/posts/2022-08-30-Handling-Multiple-Github-Deploy-Keys</td></tr><tr><td>Hosting Your Projects On OVH</td><td>https://carlosmolero.dev/posts/2022-08-27-Hosting-Your-Projects-On-OVH</td></tr><tr><td>The Repositories Pattern, Express + Jest</td><td>https://carlosmolero.dev/posts/2022-08-22-The-Repositories-Pattern-Express-Jest</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Java Callbacks Explained</td><td>https://carlosmolero.dev/2022/08/10/Java-Callbacks-Explained/</td></tr><tr><td>Introduction To Functional Programming</td><td>https://carlosmolero.dev/2022/07/22/Introduction-To-Functional-Programming/</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <h3 align="left">Stats:</h3>
