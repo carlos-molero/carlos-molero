@@ -27,7 +27,7 @@
 <h3 align="left">Latest posts:</h3>
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td>Java Callbacks Explained</td><td>https://carlosmolero.dev/2022/08/10/Java-Callbacks-Explained/</td></tr><tr><td>Introduction To Functional Programming</td><td>https://carlosmolero.dev/2022/07/22/Introduction-To-Functional-Programming/</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Javascript array functions in Java</td><td>https://carlosmolero.dev/2022/10/08/javascript-array-functions-in-java/</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <h3 align="left">Stats:</h3>
