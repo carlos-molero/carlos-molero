@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos-molero" alt="carlos-molero" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://carlosmolero.dev/tabs/projects.html](https://carlosmolero.dev/tabs/projects.html)
-
-- 📝 I regularly write articles on [https://carlosmolero.dev/tabs/blog/](https://carlosmolero.dev/tabs/blog/)
+- 📝 I regularly write articles on [https://carlosmolero.dev](https://carlosmolero.dev)
 
 - 💬 Ask me about **Javascript, React, Golang, Docker, Kubernetes or Java**
 
