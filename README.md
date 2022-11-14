@@ -26,4 +26,6 @@
 
 <br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carlos-molero&show_icons=true&theme=tokyonight&locale=en" alt="carlos-molero" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-molero&hide=shell,css,html,Dockerfile&layout=compact&theme=tokyonight" alt="carlos-molero" /></p>
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=carlos-molero&show_icons=true&theme=tokyonight&locale=en" alt="carlos-molero" /></p>
