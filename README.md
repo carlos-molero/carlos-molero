@@ -12,7 +12,7 @@
 ### Blogs posts
 
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td>How To Integrate Stripe Card Scan In Your Android App</td><td>https://carlosmolero.dev/2022/11/16/how-to-integrate-stripe-card-scan-in-your-android-app/</td></tr><tr><td>The Command Pattern In Java</td><td>https://carlosmolero.dev/2022/10/28/command-pattern-java/</td></tr><tr><td>Using MapStruct To Map REST Requests And Responses In Spring Boot</td><td>https://carlosmolero.dev/2022/10/16/using-mapstruct-to-map-rest-requests-and-responses-in-spring-boot/</td></tr><tr><td>Serving A React App From Spring Boot</td><td>https://carlosmolero.dev/2022/10/09/serving-a-react-app-from-spring-boot/</td></tr><tr><td>Javascript Array Functions In Java</td><td>https://carlosmolero.dev/2022/10/08/javascript-array-functions-in-java/</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Backing Up Data With Bash And Cron</td><td>https://carlosmolero.dev/2022/11/26/backing-up-data-with-bash-and-cron/</td></tr><tr><td>How To Integrate Stripe Card Scan In Your Android App</td><td>https://carlosmolero.dev/2022/11/16/how-to-integrate-stripe-card-scan-in-your-android-app/</td></tr><tr><td>The Command Pattern In Java</td><td>https://carlosmolero.dev/2022/10/28/command-pattern-java/</td></tr><tr><td>Using MapStruct To Map REST Requests And Responses In Spring Boot</td><td>https://carlosmolero.dev/2022/10/16/using-mapstruct-to-map-rest-requests-and-responses-in-spring-boot/</td></tr><tr><td>Serving A React App From Spring Boot</td><td>https://carlosmolero.dev/2022/10/09/serving-a-react-app-from-spring-boot/</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <h3 align="left">Connect with me:</h3>
