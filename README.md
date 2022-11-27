@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://carlosmolero.dev](https://carlosmolero.dev)
 
-- 💬 Ask me about **Java, Golang, Docker, Kubernetes or Javascript/Typescript**
+- 💬 Ask me about **Java/Kotlin, Go, Docker, Kubernetes or Javascript/Typescript**
 
 - 📫 How to reach me **carlos.mta@outlook.es**
 
@@ -26,6 +26,6 @@
 
 <br><br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-molero&hide=shell,css,html,Dockerfile&layout=compact&theme=tokyonight" alt="carlos-molero" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-molero&hide=css,html,Dockerfile&layout=compact&theme=tokyonight" alt="carlos-molero" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=carlos-molero&show_icons=true&theme=tokyonight&locale=en" alt="carlos-molero" /></p>
